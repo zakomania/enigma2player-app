@@ -31,6 +31,7 @@ li{margin:4px 0}
 .button{display:inline-block;padding:10px 18px;border-radius:999px;background:var(--accent);color:#fff;
   text-decoration:none;font-weight:700}
 .button.alt{background:var(--bg2);border:1px solid var(--line);color:var(--text)}
+.button.soon{background:transparent;border:1px dashed var(--line);color:var(--text2);cursor:default}
 .shots{display:flex;gap:12px;overflow-x:auto;padding:6px 0 14px;margin:8px 0 6px}
 .shots img{height:420px;width:auto;border-radius:14px;flex:none}
 footer{text-align:center;color:var(--text2);font-size:14px;padding:24px 20px 36px;border-top:1px solid var(--line)}
